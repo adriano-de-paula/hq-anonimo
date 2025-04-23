@@ -1,17 +1,40 @@
 # HQ - Anônimo (Projeto de História em Quadrinhos)
 
-## 👥 Integrante
-- Adriano de Paula  
+## 👥 Equipe
+
+**Nome do Grupo:** ADP Comics  
+**Integrante:** Adriano de Paula
+
+---
+
+## 🎨 Tema da HQ
+
+**Gênero:** Ação  
+**Inspiração:** Filme *Anônimo (Nobody, 2021)*  
+**Resumo:**  
+A história acompanha um homem aparentemente comum, que vive uma rotina pacata com sua família. Após um assalto traumático, ele escolhe não reagir, despertando a crítica da comunidade. Porém, um evento violento traz à tona sua verdadeira identidade: um ex-agente de elite que tentou abandonar o passado sombrio. Ele volta à ação para proteger quem ama e redimir-se de antigos erros, desencadeando uma onda de confrontos intensos com o submundo do crime.
+
+---
 
 ## 🎯 Objetivo
-Desenvolver uma história em quadrinhos de ação com no mínimo 10 quadros, utilizando ferramentas ágeis de desenvolvimento, controle de versão com GitHub e apoio de geradores de imagem. O projeto será conduzido em 4 Sprints semanais.
 
-## 🧩 Estrutura Inicial da História
+Criar uma história em quadrinhos com pelo menos 10 quadros, utilizando ferramentas de geração de imagem com IA, roteiro original e layout visual organizado, aplicando metodologias ágeis de desenvolvimento em grupo.
 
-Em uma cidade sufocada pela corrupção, **Francisco**, um homem comum e aparentemente inofensivo, leva uma vida pacata como técnico em manutenção de sistemas. No entanto, um assalto brutal à sua casa faz com que fantasmas de seu passado retornem: Francisco era um ex-agente de operações especiais que desapareceu do radar anos atrás, tentando enterrar uma vida de violência. O trauma sofrido por sua família reacende uma chama há muito adormecida, e agora, ele decide agir pelas próprias mãos.
+---
 
-Enquanto segue as pistas dos criminosos, Francisco descobre que o assalto foi apenas a ponta do iceberg de uma rede de crime que envolve grandes empresários e figuras do alto escalão. Com métodos silenciosos e brutais, ele começa a desmontar o esquema, um inimigo por vez, enquanto tenta proteger sua família e esconder sua identidade. No fim, a cidade verá que um homem anônimo pode ser mais perigoso que qualquer exército.
+## 📁 Estrutura do Projeto
 
-## 🔄 Estrutura de Branch
-- `main` → Branch principal para o desenvolvimento e entrega final do conteúdo.
-- (opcional) `imagens`, `roteiro`, `prototipo` → Branches auxiliares para organização por áreas.
+- Roteiro e storyboard
+- Geração de imagens com IA
+- Organização dos quadros e narrativa
+- Layout final da HQ
+- Publicação em formato acessível
+
+---
+
+## 🔗 Links Importantes
+
+- ✅ [Product Backlog (GitHub Issues)](https://github.com/adriano-de-paula/hq-anonimo/issues)
+- ✅ [Kanban (GitHub Projects)](https://github.com/users/adriano-de-paula/projects/1) 
+- ✅ [Sprint 1 (Milestone)](https://github.com/adriano-de-paula/hq-anonimo/milestone/1)
+
