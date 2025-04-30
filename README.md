@@ -1,4 +1,4 @@
-# HQ - Anônimo (Projeto de História em Quadrinhos)
+# HQ - "Ninguém" (Projeto de História em Quadrinhos)
 
 ## 👥 Equipe
 
@@ -36,5 +36,5 @@ Criar uma história em quadrinhos com pelo menos 10 quadros, utilizando ferramen
 
 - ✅ [Product Backlog (GitHub Issues)](https://github.com/adriano-de-paula/hq-anonimo/issues)
 - ✅ [Kanban (GitHub Projects)](https://github.com/users/adriano-de-paula/projects/1) 
-- ✅ [Sprint 1 (Milestone)](https://github.com/adriano-de-paula/hq-anonimo/milestone/1)
+- ✅ [Sprint 2 (Milestone)](https://github.com/adriano-de-paula/hq-anonimo/milestone/2)
 
