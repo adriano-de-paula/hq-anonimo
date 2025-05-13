@@ -32,9 +32,30 @@ Criar uma história em quadrinhos com pelo menos 10 quadros, utilizando ferramen
 
 ---
 
+## 🖼️ Preview
+
+<p align="center">
+  <img src="./assets/img-prontas/Capa-niguem.png" alt="Capa da HQ" width="500"/>
+</p>
+
+<p align="center"><em>Capa do HQ - "Ninguém"</em></p>
+
+
+---
+
 ## 🔗 Links Importantes
 
 - ✅ [Product Backlog (GitHub Issues)](https://github.com/adriano-de-paula/hq-anonimo/issues)
 - ✅ [Kanban (GitHub Projects)](https://github.com/users/adriano-de-paula/projects/1) 
-- ✅ [Sprint 2 (Milestone)](https://github.com/adriano-de-paula/hq-anonimo/milestone/2)
 
+---
+
+## ✅ Conclusão do Projeto
+
+Todas as tarefas previstas no backlog foram concluídas. As sprints foram executadas utilizando a metodologia ágil com auxílio do GitHub Projects. A publicação final da HQ foi feita utilizando GitHub Pages.
+
+---
+
+## Veja o resultado final do HQ
+
+- ✅ [Acesse a HQ online](https://adriano-de-paula.github.io/hq-anonimo/)
